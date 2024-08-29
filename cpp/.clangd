@@ -1,0 +1,4 @@
+CompileFlags:
+  Add:
+    - -ID:/project/hiro/cpp
+    - -include=hiro.hpp
